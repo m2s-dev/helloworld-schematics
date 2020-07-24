@@ -1,5 +1,5 @@
 {
-  "name": "helloworld",
+  "name": "@m2sdev/helloworld",
   "version": "1.0.0",
   "description": "A blank schematics",
   "scripts": {
